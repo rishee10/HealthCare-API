@@ -1,4 +1,3 @@
-# HealthCare-API
 
 # HeathCare-API
 
